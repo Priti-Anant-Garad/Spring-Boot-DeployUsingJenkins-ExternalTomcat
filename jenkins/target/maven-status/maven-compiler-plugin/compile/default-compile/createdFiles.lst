@@ -1,0 +1,3 @@
+com\deployment\jenkins\JenkinsApplication.class
+com\deployment\jenkins\ServletInitializer.class
+com\deployment\jenkins\controller\jenkinscontroller.class
